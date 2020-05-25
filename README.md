@@ -9,7 +9,7 @@ Dart
 Made by Google logo
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54171077/81929153-1f74b800-9604-11ea-8cce-f7bb8d49669a.png" width="150" title="hover text">
+  <img src="https://user-images.githubusercontent.com/54171077/82807008-959ad980-9ea4-11ea-9189-6f8aac599847.png" width="350" title="hover text">
   <img src="https://user-images.githubusercontent.com/54171077/81929422-9a3dd300-9604-11ea-8939-28f006054d83.png" width="150" alt="accessibility text">
 </p>
 
